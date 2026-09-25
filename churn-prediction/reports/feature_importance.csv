@@ -1,0 +1,11 @@
+feature,importance
+tenure,1.0259759364964016
+MonthlyCharges,0.6882684531107628
+is_month_to_month,0.5212247468328006
+Contract_Two year,0.49781240189149667
+tenure_bucket_49mo+,0.4657887333133992
+LatePaymentsLast12Months,0.27228845213484526
+SupportTicketsLast6Months,0.2678404474693767
+tenure_bucket_25-48mo,0.25052334244822533
+TechSupport_Yes,0.2023669866181137
+PaymentMethod_Electronic check,0.16487708080341917

@@ -1,0 +1,23 @@
+{
+  "best_model": "logreg",
+  "results": [
+    {
+      "model": "Logistic Regression",
+      "roc_auc": 0.7796,
+      "pr_auc": 0.488,
+      "f1": 0.521
+    },
+    {
+      "model": "Random Forest",
+      "roc_auc": 0.7678,
+      "pr_auc": 0.4641,
+      "f1": 0.5103
+    },
+    {
+      "model": "Gradient Boosting (sklearn)",
+      "roc_auc": 0.7622,
+      "pr_auc": 0.4455,
+      "f1": 0.3521
+    }
+  ]
+}

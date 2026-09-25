@@ -1,0 +1,22 @@
+{
+  "Critical Risk": {
+    "customers": 1286,
+    "avg_monthly_revenue": 71.87,
+    "est_monthly_revenue_at_risk": 92424.82
+  },
+  "Healthy": {
+    "customers": 1724,
+    "avg_monthly_revenue": 48.65,
+    "est_monthly_revenue_at_risk": 83872.6
+  },
+  "High Risk": {
+    "customers": 2305,
+    "avg_monthly_revenue": 61.36,
+    "est_monthly_revenue_at_risk": 141434.8
+  },
+  "Watch": {
+    "customers": 1685,
+    "avg_monthly_revenue": 56.23,
+    "est_monthly_revenue_at_risk": 94747.55
+  }
+}
